@@ -33,10 +33,42 @@ Sou um desenvolvedor web focado em criar aplicações eficientes e interfaces mo
 
 ### 💼 Projetos em Destaque
 
-*   **Smoky One:** Um sistema de cardápio digital completo, integrado com WhatsApp e gerenciado via painel administrativo com Firebase.
-*   **Catálogo E-commerce (WG TECh):** Uma aplicação de catálogo virtual construída utilizando Supabase para gerenciamento de dados.
-*   **Espasoares:** Site desenvolvido para um espaço de lazer.
-
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <!-- Substitua o link abaixo pela URL da foto do Smoky One -->
+      <img src="imagens/header-P.png" alt="Projeto Smoky One" style="border-radius: 8px; max-width: 100%;">
+    </td>
+    <td width="60%">
+      <h4>🍔 Smoky One</h4>
+      <p>Um sistema de cardápio digital completo, integrado com WhatsApp e gerenciado via painel administrativo com Firebase. Funcionalidades do cardápio destacadas para facilitar a experiência do usuário.</p>
+      <!-- Se quiser adicionar um link para o projeto, use o botão abaixo -->
+      <a href="https://cardapio-online-facil.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Acessar_Projeto-000?style=for-the-badge&logo=github&logoColor=white" alt="Acessar"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" align="center">
+      <!-- Substitua o link abaixo pela URL da foto do WG TECh -->
+      <img src="imagens/IMG-20260414-WA0022.jpg" alt="Projeto WG TECh" style="border-radius: 8px; max-width: 100%;">
+    </td>
+    <td width="60%">
+      <h4>🛒 Catálogo E-commerce (WG TECh)</h4>
+      <p>Uma aplicação de catálogo virtual construída utilizando Supabase para gerenciamento de dados moderno e eficiente.</p>
+      <a href="https://viannafit.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Acessar_Projeto-000?style=for-the-badge&logo=github&logoColor=white" alt="Acessar"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" align="center">
+      <!-- Substitua o link abaixo pela URL da foto do Espasoares -->
+      <img src="imagens/1773714421229.png" alt="Projeto Espasoares" style="border-radius: 8px; max-width: 100%;">
+    </td>
+    <td width="60%">
+      <h4>🏊‍♂️ Espasoares</h4>
+      <p>Site desenvolvido para um espaço de lazer, focado em apresentar o ambiente, incluir a seção Sobre Nós e facilitar o contato para reservas.</p>
+      <a href="https://espasoares.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Acessar_Projeto-000?style=for-the-badge&logo=github&logoColor=white" alt="Acessar"></a>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
