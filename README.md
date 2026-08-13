@@ -36,13 +36,29 @@ Sou um desenvolvedor web focado em criar aplicações eficientes e interfaces mo
 <table>
   <tr>
     <td width="40%" align="center">
+      <!-- Substitua o link abaixo pela URL da foto do Minha Açaiteria -->
+      <img src="imagens/logo-redonda.png" alt="Projeto Minha Açaiteria" style="border-radius: 8px; max-width: 100%;">
+    </td>
+    <td width="60%">
+      <h4>🍧 Minha Açaiteria</h4>
+      <p>Aplicação web para gerenciamento e pedidos de açaiteria. Atualmente com o front-end estruturado e em desenvolvimento do back-end e painel de pedidos.</p>
+      <p><strong>Progresso (50%):</strong></p>
+      <code>[████████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒]</code>
+      <br /><br />
+      <a href="https://github.com/gwilhermealm/minha-acaiteria" target="_blank">
+        <img src="https://img.shields.io/badge/Reposit%C3%B3rio-000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
+      </a>
+      <img src="https://img.shields.io/badge/Status-50%25-yellow?style=for-the-badge" alt="Status 50%">
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" align="center">
       <!-- Substitua o link abaixo pela URL da foto do Smoky One -->
       <img src="imagens/header-P.png" alt="Projeto Smoky One" style="border-radius: 8px; max-width: 100%;">
     </td>
     <td width="60%">
       <h4>🍔 Smoky One</h4>
       <p>Um sistema de cardápio digital completo, integrado com WhatsApp e gerenciado via painel administrativo com Firebase. Funcionalidades do cardápio destacadas para facilitar a experiência do usuário.</p>
-      <!-- Se quiser adicionar um link para o projeto, use o botão abaixo -->
       <a href="https://cardapio-online-facil.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Acessar_Projeto-000?style=for-the-badge&logo=github&logoColor=white" alt="Acessar"></a>
     </td>
   </tr>
