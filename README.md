@@ -1,5 +1,5 @@
 <div >
- <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&pause=1000&color=000000&bg_color=9D00FF&center=true&vcenter=true&width=800&height=120&lines=DEV+%E2%80%A2+DEV+%E2%80%A2+DEV;Guilherme+Almeida;Desenvolvedor+Web;Veja+mais+abaixo+%E2%86%93" alt="Pixel Font" />
+ <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&pause=1000&color=9D00FF&bg_color=000000&center=true&vcenter=true&width=800&height=120&lines=DEV+%E2%80%A2+DEV+%E2%80%A2+DEV;Guilherme+Almeida;Desenvolvedor+Web;Veja+mais+abaixo+%E2%86%93" alt="Pixel Font" />
 </div>
 
 <br />
