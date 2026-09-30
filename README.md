@@ -43,6 +43,29 @@ Sou um desenvolvedor web focado em criar aplicações eficientes e interfaces mo
 <table>
   <tr>
     <td width="40%" align="center">
+      <!-- Substitua o caminho da imagem se tiver um logo ou print do Gestor Drive em sua pasta de imagens -->
+      <img src="imagens/gestor-drive.png" alt="Projeto Gestor Drive" style="border-radius: 8px; max-width: 100%;">
+    </td>
+    <td width="60%">
+      <h4>🚗 Gestor Drive</h4>
+      <p>Aplicação web multi-tenant voltada para motoristas de aplicativo. Permite o controle financeiro completo com registro de turnos, categorização de despesas e cálculo automatizado do lucro líquido.</p>
+      <p><strong>Tecnologias:</strong> React, Supabase (Autenticação e Banco de Dados) e Vercel.</p>
+      <a href="https://github.com/gwilhermealm" target="_blank">
+        <img src="https://img.shields.io/badge/Reposit%C3%B3rio-000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
+      </a>
+      <a href="https://gestordrive.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Acessar_Projeto-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar">
+      </a>
+    </td>
+  </tr>
+
+
+
+
+
+
+  <tr>
+    <td width="40%" align="center">
       <!-- Substitua o link abaixo pela URL da foto do Minha Açaiteria -->
       <img src="imagens/logo-redonda.png" alt="Projeto Minha Açaiteria" style="border-radius: 8px; max-width: 100%;">
     </td>
